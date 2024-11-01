@@ -1,1 +1,1 @@
-A designed airport and flight database system using PostgreSQL.
+A designed airport and flight database using PostgreSQL.
